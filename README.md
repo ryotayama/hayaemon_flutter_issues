@@ -1,0 +1,2 @@
+# hayaemon_flutter_issues
+ハヤえもんFlutter版の課題を管理するためのリポジトリです。
